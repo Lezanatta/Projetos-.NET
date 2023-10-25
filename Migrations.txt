@@ -1,0 +1,6 @@
+dotnet ef
+dotnet ef migrations add ( nome da migração ) 
+dotnet tool update --global dotnet-ef
+dotnet tool install --global dotnet-ef
+
+dotnet ef database update
