@@ -1,0 +1,50 @@
+C:\Users\lelez\OneDrive\Área de Trabalho\Projeto Entity\Projeto Entity\bin\Debug\net7.0\Projeto Entity.exe
+C:\Users\lelez\OneDrive\Área de Trabalho\Projeto Entity\Projeto Entity\bin\Debug\net7.0\Projeto Entity.deps.json
+C:\Users\lelez\OneDrive\Área de Trabalho\Projeto Entity\Projeto Entity\bin\Debug\net7.0\Projeto Entity.runtimeconfig.json
+C:\Users\lelez\OneDrive\Área de Trabalho\Projeto Entity\Projeto Entity\bin\Debug\net7.0\Projeto Entity.dll
+C:\Users\lelez\OneDrive\Área de Trabalho\Projeto Entity\Projeto Entity\bin\Debug\net7.0\Projeto Entity.pdb
+C:\Users\lelez\OneDrive\Área de Trabalho\Projeto Entity\Projeto Entity\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\lelez\OneDrive\Área de Trabalho\Projeto Entity\Projeto Entity\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\lelez\OneDrive\Área de Trabalho\Projeto Entity\Projeto Entity\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\lelez\OneDrive\Área de Trabalho\Projeto Entity\Projeto Entity\bin\Debug\net7.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\lelez\OneDrive\Área de Trabalho\Projeto Entity\Projeto Entity\bin\Debug\net7.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\lelez\OneDrive\Área de Trabalho\Projeto Entity\Projeto Entity\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\lelez\OneDrive\Área de Trabalho\Projeto Entity\Projeto Entity\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\lelez\OneDrive\Área de Trabalho\Projeto Entity\Projeto Entity\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\lelez\OneDrive\Área de Trabalho\Projeto Entity\Projeto Entity\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+C:\Users\lelez\OneDrive\Área de Trabalho\Projeto Entity\Projeto Entity\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\lelez\OneDrive\Área de Trabalho\Projeto Entity\Projeto Entity\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\lelez\OneDrive\Área de Trabalho\Projeto Entity\Projeto Entity\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\Users\lelez\OneDrive\Área de Trabalho\Projeto Entity\Projeto Entity\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\lelez\OneDrive\Área de Trabalho\Projeto Entity\Projeto Entity\bin\Debug\net7.0\Oracle.EntityFrameworkCore.dll
+C:\Users\lelez\OneDrive\Área de Trabalho\Projeto Entity\Projeto Entity\bin\Debug\net7.0\Oracle.ManagedDataAccess.dll
+C:\Users\lelez\OneDrive\Área de Trabalho\Projeto Entity\Projeto Entity\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\lelez\OneDrive\Área de Trabalho\Projeto Entity\Projeto Entity\bin\Debug\net7.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\lelez\OneDrive\Área de Trabalho\Projeto Entity\Projeto Entity\bin\Debug\net7.0\System.DirectoryServices.dll
+C:\Users\lelez\OneDrive\Área de Trabalho\Projeto Entity\Projeto Entity\bin\Debug\net7.0\System.DirectoryServices.Protocols.dll
+C:\Users\lelez\OneDrive\Área de Trabalho\Projeto Entity\Projeto Entity\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\lelez\OneDrive\Área de Trabalho\Projeto Entity\Projeto Entity\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lelez\OneDrive\Área de Trabalho\Projeto Entity\Projeto Entity\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\lelez\OneDrive\Área de Trabalho\Projeto Entity\Projeto Entity\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\lelez\OneDrive\Área de Trabalho\Projeto Entity\Projeto Entity\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\lelez\OneDrive\Área de Trabalho\Projeto Entity\Projeto Entity\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\lelez\OneDrive\Área de Trabalho\Projeto Entity\Projeto Entity\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.dll
+C:\Users\lelez\OneDrive\Área de Trabalho\Projeto Entity\Projeto Entity\bin\Debug\net7.0\runtimes\linux\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\lelez\OneDrive\Área de Trabalho\Projeto Entity\Projeto Entity\bin\Debug\net7.0\runtimes\osx\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\lelez\OneDrive\Área de Trabalho\Projeto Entity\Projeto Entity\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\lelez\OneDrive\Área de Trabalho\Projeto Entity\Projeto Entity\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\lelez\OneDrive\Área de Trabalho\Projeto Entity\Projeto Entity\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\lelez\OneDrive\Área de Trabalho\Projeto Entity\Projeto Entity\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lelez\OneDrive\Área de Trabalho\Projeto Entity\Projeto Entity\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\lelez\OneDrive\Área de Trabalho\Projeto Entity\Projeto Entity\obj\Debug\net7.0\Projeto Entity.csproj.AssemblyReference.cache
+C:\Users\lelez\OneDrive\Área de Trabalho\Projeto Entity\Projeto Entity\obj\Debug\net7.0\Projeto Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lelez\OneDrive\Área de Trabalho\Projeto Entity\Projeto Entity\obj\Debug\net7.0\Projeto Entity.AssemblyInfoInputs.cache
+C:\Users\lelez\OneDrive\Área de Trabalho\Projeto Entity\Projeto Entity\obj\Debug\net7.0\Projeto Entity.AssemblyInfo.cs
+C:\Users\lelez\OneDrive\Área de Trabalho\Projeto Entity\Projeto Entity\obj\Debug\net7.0\Projeto Entity.csproj.CoreCompileInputs.cache
+C:\Users\lelez\OneDrive\Área de Trabalho\Projeto Entity\Projeto Entity\obj\Debug\net7.0\Projeto Entity.csproj.CopyComplete
+C:\Users\lelez\OneDrive\Área de Trabalho\Projeto Entity\Projeto Entity\obj\Debug\net7.0\Projeto Entity.dll
+C:\Users\lelez\OneDrive\Área de Trabalho\Projeto Entity\Projeto Entity\obj\Debug\net7.0\refint\Projeto Entity.dll
+C:\Users\lelez\OneDrive\Área de Trabalho\Projeto Entity\Projeto Entity\obj\Debug\net7.0\Projeto Entity.pdb
+C:\Users\lelez\OneDrive\Área de Trabalho\Projeto Entity\Projeto Entity\obj\Debug\net7.0\Projeto Entity.genruntimeconfig.cache
+C:\Users\lelez\OneDrive\Área de Trabalho\Projeto Entity\Projeto Entity\obj\Debug\net7.0\ref\Projeto Entity.dll
+C:\Users\lelez\OneDrive\Área de Trabalho\Projeto Entity\Projeto Entity\bin\Debug\net7.0\linq2db.dll

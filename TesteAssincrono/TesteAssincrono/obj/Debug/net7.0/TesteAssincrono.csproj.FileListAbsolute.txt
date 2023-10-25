@@ -1,0 +1,15 @@
+C:\Users\lelez\OneDrive\Área de Trabalho\Programação\C#\TesteAssincrono\TesteAssincrono\bin\Debug\net7.0\TesteAssincrono.exe
+C:\Users\lelez\OneDrive\Área de Trabalho\Programação\C#\TesteAssincrono\TesteAssincrono\bin\Debug\net7.0\TesteAssincrono.deps.json
+C:\Users\lelez\OneDrive\Área de Trabalho\Programação\C#\TesteAssincrono\TesteAssincrono\bin\Debug\net7.0\TesteAssincrono.runtimeconfig.json
+C:\Users\lelez\OneDrive\Área de Trabalho\Programação\C#\TesteAssincrono\TesteAssincrono\bin\Debug\net7.0\TesteAssincrono.dll
+C:\Users\lelez\OneDrive\Área de Trabalho\Programação\C#\TesteAssincrono\TesteAssincrono\bin\Debug\net7.0\TesteAssincrono.pdb
+C:\Users\lelez\OneDrive\Área de Trabalho\Programação\C#\TesteAssincrono\TesteAssincrono\obj\Debug\net7.0\TesteAssincrono.csproj.AssemblyReference.cache
+C:\Users\lelez\OneDrive\Área de Trabalho\Programação\C#\TesteAssincrono\TesteAssincrono\obj\Debug\net7.0\TesteAssincrono.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lelez\OneDrive\Área de Trabalho\Programação\C#\TesteAssincrono\TesteAssincrono\obj\Debug\net7.0\TesteAssincrono.AssemblyInfoInputs.cache
+C:\Users\lelez\OneDrive\Área de Trabalho\Programação\C#\TesteAssincrono\TesteAssincrono\obj\Debug\net7.0\TesteAssincrono.AssemblyInfo.cs
+C:\Users\lelez\OneDrive\Área de Trabalho\Programação\C#\TesteAssincrono\TesteAssincrono\obj\Debug\net7.0\TesteAssincrono.csproj.CoreCompileInputs.cache
+C:\Users\lelez\OneDrive\Área de Trabalho\Programação\C#\TesteAssincrono\TesteAssincrono\obj\Debug\net7.0\TesteAssincrono.dll
+C:\Users\lelez\OneDrive\Área de Trabalho\Programação\C#\TesteAssincrono\TesteAssincrono\obj\Debug\net7.0\refint\TesteAssincrono.dll
+C:\Users\lelez\OneDrive\Área de Trabalho\Programação\C#\TesteAssincrono\TesteAssincrono\obj\Debug\net7.0\TesteAssincrono.pdb
+C:\Users\lelez\OneDrive\Área de Trabalho\Programação\C#\TesteAssincrono\TesteAssincrono\obj\Debug\net7.0\TesteAssincrono.genruntimeconfig.cache
+C:\Users\lelez\OneDrive\Área de Trabalho\Programação\C#\TesteAssincrono\TesteAssincrono\obj\Debug\net7.0\ref\TesteAssincrono.dll

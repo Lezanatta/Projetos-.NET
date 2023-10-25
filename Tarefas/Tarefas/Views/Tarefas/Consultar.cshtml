@@ -1,0 +1,37 @@
+﻿<head>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap-grid.min.css"/>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+</head>
+<div class="d-flex justify-content-center mt-2 border-bottom">
+    <input type="date" id="dt-inicio" />
+    <label id="lbl-date" class="m-2">á</label>
+    <input type="date" id="dt-fim" />
+    <button id="btn-filtro" class="btn btn-primary ms-3">Pesquisar</button>
+</div>
+
+<script>
+    $("#btn-filtro").click(function (){
+        PesquisarTarefas();
+    });
+
+    function PesquisarTarefas(){
+        var dt_inicio = $("#dt-inicio").val();
+        var dt_fim = $("#dt-fim").val();
+        var obj = {
+            "dtInicio" : dt_inicio,
+            "dtFim": dt_fim
+        };
+        $.ajax({
+            type: 'GET',
+            contentType: 'application/json;  charset=utf-8',
+            url: "/Tarefas/ObterTarefas",
+            data: obj,
+            success: function(result){
+                console.log(result[0].descricao);
+            },
+            error: function(error) {
+                console.log("Ocorreu um erro", error.responseText);
+            }
+        });
+    }
+</script>

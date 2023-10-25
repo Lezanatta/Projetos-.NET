@@ -1,0 +1,12 @@
+C:\Users\lelez\OneDrive\Área de Trabalho\Programação\C#\Tarefas\Biblioteca.Tarefas\bin\Debug\net7.0\Biblioteca.Tarefas.deps.json
+C:\Users\lelez\OneDrive\Área de Trabalho\Programação\C#\Tarefas\Biblioteca.Tarefas\bin\Debug\net7.0\Biblioteca.Tarefas.dll
+C:\Users\lelez\OneDrive\Área de Trabalho\Programação\C#\Tarefas\Biblioteca.Tarefas\bin\Debug\net7.0\Biblioteca.Tarefas.pdb
+C:\Users\lelez\OneDrive\Área de Trabalho\Programação\C#\Tarefas\Biblioteca.Tarefas\obj\Debug\net7.0\Biblioteca.Tarefas.csproj.AssemblyReference.cache
+C:\Users\lelez\OneDrive\Área de Trabalho\Programação\C#\Tarefas\Biblioteca.Tarefas\obj\Debug\net7.0\Biblioteca.Tarefas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lelez\OneDrive\Área de Trabalho\Programação\C#\Tarefas\Biblioteca.Tarefas\obj\Debug\net7.0\Biblioteca.Tarefas.AssemblyInfoInputs.cache
+C:\Users\lelez\OneDrive\Área de Trabalho\Programação\C#\Tarefas\Biblioteca.Tarefas\obj\Debug\net7.0\Biblioteca.Tarefas.AssemblyInfo.cs
+C:\Users\lelez\OneDrive\Área de Trabalho\Programação\C#\Tarefas\Biblioteca.Tarefas\obj\Debug\net7.0\Biblioteca.Tarefas.csproj.CoreCompileInputs.cache
+C:\Users\lelez\OneDrive\Área de Trabalho\Programação\C#\Tarefas\Biblioteca.Tarefas\obj\Debug\net7.0\Biblioteca.Tarefas.dll
+C:\Users\lelez\OneDrive\Área de Trabalho\Programação\C#\Tarefas\Biblioteca.Tarefas\obj\Debug\net7.0\refint\Biblioteca.Tarefas.dll
+C:\Users\lelez\OneDrive\Área de Trabalho\Programação\C#\Tarefas\Biblioteca.Tarefas\obj\Debug\net7.0\Biblioteca.Tarefas.pdb
+C:\Users\lelez\OneDrive\Área de Trabalho\Programação\C#\Tarefas\Biblioteca.Tarefas\obj\Debug\net7.0\ref\Biblioteca.Tarefas.dll
